@@ -11,5 +11,6 @@ O projeto resultante desse curso está armazenado nesse repositório e pode ser 
 
 [alura]: https://www.alura.com.br
 [curso]: https://www.alura.com.br/curso-online-web-design-responsivo
+[github-pages]: https://pages.github.com/
 [repo]: https://jeffersondev.github.io/alura-web-design-responsivo/
 [sergio]: https://cursos.alura.com.br/user/sergiolopes
