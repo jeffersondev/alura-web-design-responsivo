@@ -1,6 +1,18 @@
 .secao {
-    float: left;
-    width: 33.333%;
+    width: 100%;
+}
+
+@media (min-width: 600px) {
+    .secao {
+        float: left;
+        width: 50%;
+    }
+}
+@media (min-width: 1000px) {
+    .secao {
+        float: left;
+        width: 33.333%;
+    }
 }
 
 .mini {
